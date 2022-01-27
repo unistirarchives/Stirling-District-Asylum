@@ -1,0 +1,13 @@
+{
+  "id" : "https://unistirarchives.github.io/Stirling-District-Asylum/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in unistirarchives/Stirling-District-Asylum project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://unistirarchives.github.io/Stirling-District-Asylum/manifests/manifest3.json",
+    "label" : "Case notes-Mary Jenkins or Calder"
+  } ]
+}
