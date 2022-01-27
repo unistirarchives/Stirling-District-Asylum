@@ -1,0 +1,138 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://unistirarchives.github.io/Stirling-District-Asylum/manifests/manifest3.json",
+  "@type" : "sc:Manifest",
+  "label" : "Case notes-Mary Jenkins or Calder",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Case notes from the Stirling District Asylum collection, University of Stirling",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "NHS Forth Valley Archive, University of Stirling",
+  "sequences" : [ {
+    "@id" : "http://fcfbace8-8a69-4143-a000-c14f081d76fb",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://2a131163-1ab9-4bd8-862a-f9407da4a10a",
+      "@type" : "sc:Canvas",
+      "label" : "Case notes pages 231-232",
+      "height" : 4994,
+      "width" : 6762,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://9a3d1bb5-34fc-466e-a380-b895bf427a09",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/mjc-231232/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/mjc-231232",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 4994,
+          "width" : 6762
+        },
+        "on" : "http://2a131163-1ab9-4bd8-862a-f9407da4a10a"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://0f920836-2b55-4baa-91a6-e022bf16ac37",
+      "@type" : "sc:Canvas",
+      "label" : "Case notes pages 233-234",
+      "height" : 6659,
+      "width" : 9016,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://66249237-8283-4fb1-952d-429e2fdcffa0",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/mjc-233234/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/mjc-233234",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 6659,
+          "width" : 9016
+        },
+        "on" : "http://0f920836-2b55-4baa-91a6-e022bf16ac37"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://07933dff-d7be-4b4b-af96-18ab720473b8",
+      "@type" : "sc:Canvas",
+      "label" : "Case notes continuation pages 407-408",
+      "height" : 6659,
+      "width" : 9016,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://1d117711-8cdb-49c8-8587-dd46b8a51415",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/mjc-407408/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/mjc-407408",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 6659,
+          "width" : 9016
+        },
+        "on" : "http://07933dff-d7be-4b4b-af96-18ab720473b8"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://0722d10d-767e-4162-bbc0-b55d5f0c1173",
+      "@type" : "sc:Canvas",
+      "label" : "Case notes continuation pages 408 extended medical chart",
+      "height" : 6659,
+      "width" : 9202,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://56a80ebd-d25e-465e-971e-5c82cce3277d",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/mjc-full-medical-chart/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/mjc-full-medical-chart",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 6659,
+          "width" : 9202
+        },
+        "on" : "http://0722d10d-767e-4162-bbc0-b55d5f0c1173"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ {
+    "@id" : "http://example.org/iiif/book1/range/top",
+    "@type" : "sc:Range",
+    "label" : "Table of Content",
+    "viewingHint" : "top",
+    "ranges" : [ "http://example.org/iiif/book1/range/intro" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/intro",
+    "@type" : "sc:Range",
+    "label" : "Mary Jenkins or Calder",
+    "canvases" : [ "http://2a131163-1ab9-4bd8-862a-f9407da4a10a" ]
+  } ]
+}
