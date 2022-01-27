@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 721,
+    "id" : "https://unistirarchives.github.io/Stirling-District-Asylum/images/Photo-close-up/canvas/",
+    "label" : {
+      "none" : [ "Photo-close-up" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://unistirarchives.github.io/Stirling-District-Asylum/images/Photo-close-up/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://unistirarchives.github.io/Stirling-District-Asylum/images/Photo-close-up/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 23,
+              "height" : 35
+            }, {
+              "width" : 46,
+              "height" : 69
+            }, {
+              "width" : 91,
+              "height" : 137
+            }, {
+              "width" : 181,
+              "height" : 273
+            }, {
+              "width" : 361,
+              "height" : 545
+            }, {
+              "width" : 721,
+              "height" : 1089
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 721,
+            "@id" : "https://unistirarchives.github.io/Stirling-District-Asylum/images/Photo-close-up",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1089
+          } ],
+          "format" : "image/jpeg",
+          "width" : 721,
+          "id" : "https://unistirarchives.github.io/Stirling-District-Asylum/images/Photo-close-up/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1089
+        },
+        "target" : "https://unistirarchives.github.io/Stirling-District-Asylum/images/Photo-close-up/canvas/"
+      } ]
+    } ],
+    "height" : 1089
+  }, {
     "width" : 9202,
     "id" : "https://unistirarchives.github.io/Stirling-District-Asylum/images/MJC-full-medical-chart/canvas/",
     "label" : {
