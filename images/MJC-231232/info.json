@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 212,
+    "height" : 157
+  }, {
+    "width" : 423,
+    "height" : 313
+  }, {
+    "width" : 846,
+    "height" : 625
+  }, {
+    "width" : 1691,
+    "height" : 1249
+  }, {
+    "width" : 3381,
+    "height" : 2497
+  }, {
+    "width" : 6762,
+    "height" : 4994
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 6762,
+  "@id" : "https://unistirarchives.github.io/Stirling-District-Asylum/images/MJC-231232",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 4994
+}
