@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 23,
+    "height" : 35
+  }, {
+    "width" : 46,
+    "height" : 69
+  }, {
+    "width" : 91,
+    "height" : 137
+  }, {
+    "width" : 181,
+    "height" : 273
+  }, {
+    "width" : 361,
+    "height" : 545
+  }, {
+    "width" : 721,
+    "height" : 1089
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 721,
+  "@id" : "https://unistirarchives.github.io/Stirling-District-Asylum/images/Photo-close-up",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1089
+}
