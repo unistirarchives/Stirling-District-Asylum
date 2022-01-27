@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 9202,
+    "id" : "https://unistirarchives.github.io/Stirling-District-Asylum/images/MJC-full-medical-chart/canvas/",
+    "label" : {
+      "none" : [ "MJC-full-medical-chart" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://unistirarchives.github.io/Stirling-District-Asylum/images/MJC-full-medical-chart/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://unistirarchives.github.io/Stirling-District-Asylum/images/MJC-full-medical-chart/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 288,
+              "height" : 209
+            }, {
+              "width" : 576,
+              "height" : 417
+            }, {
+              "width" : 1151,
+              "height" : 833
+            }, {
+              "width" : 2301,
+              "height" : 1665
+            }, {
+              "width" : 4601,
+              "height" : 3330
+            }, {
+              "width" : 9202,
+              "height" : 6659
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 9202,
+            "@id" : "https://unistirarchives.github.io/Stirling-District-Asylum/images/MJC-full-medical-chart",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 6659
+          } ],
+          "format" : "image/jpeg",
+          "width" : 9202,
+          "id" : "https://unistirarchives.github.io/Stirling-District-Asylum/images/MJC-full-medical-chart/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 6659
+        },
+        "target" : "https://unistirarchives.github.io/Stirling-District-Asylum/images/MJC-full-medical-chart/canvas/"
+      } ]
+    } ],
+    "height" : 6659
+  }, {
     "width" : 9016,
     "id" : "https://unistirarchives.github.io/Stirling-District-Asylum/images/MJC-233234/canvas/",
     "label" : {
