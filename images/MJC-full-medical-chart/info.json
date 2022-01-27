@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 288,
+    "height" : 209
+  }, {
+    "width" : 576,
+    "height" : 417
+  }, {
+    "width" : 1151,
+    "height" : 833
+  }, {
+    "width" : 2301,
+    "height" : 1665
+  }, {
+    "width" : 4601,
+    "height" : 3330
+  }, {
+    "width" : 9202,
+    "height" : 6659
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 9202,
+  "@id" : "https://unistirarchives.github.io/Stirling-District-Asylum/images/MJC-full-medical-chart",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 6659
+}
